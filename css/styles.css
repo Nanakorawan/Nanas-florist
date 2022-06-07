@@ -1,0 +1,99 @@
+#title {
+  background-color: #d8d7d2;
+}
+.intro2{
+  font-size: 20px;
+  font-family: montserrat,sans-serif;
+  font-weight: 200;
+  color: #8b6f7c;
+  padding-bottom: 20px;
+  margin-left: 5%;
+}
+.Header{
+  font-size: 100px;
+  font-family: "Biancha",cursive;
+  margin-top: 250px;
+  margin-bottom: 30px;
+  margin-left: 5%;
+}
+.top{
+  padding-left: 5%;
+  padding-top: 60px;
+}
+
+#features {
+  padding: 7% 15%;
+}
+
+.feature-box {
+  text-align: center;
+}
+
+#follow {
+  padding: 7% 15%;
+}
+
+.followus {
+  text-align: center;
+}
+h4 {
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+#signup {
+  padding: 7% 15%;
+}
+.signup {
+  text-align: center;
+}
+h5 {
+  font-size: 30px;
+  margin-bottom: 30px;
+  font-family: 'Libre Bodoni', serif;
+}
+
+#testimonials {
+  text-align: center;
+  background-color: #d8d7d2;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+.testimonial-image {
+  width: 30%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.peony {
+  font-family: "Biancha",cursive;
+  font-size: 80px;
+  font-weight: 100;
+}
+
+.listsf {
+  font-size: 20px;
+  font-family: montserrat,sans-serif;
+  font-weight: 200;
+  color: #8b6f7c;
+  padding-bottom: 20px;
+}
+
+.endh{
+  font-size: 30px;
+  font-family: "Biancha",cursive;
+  text-align: center;
+  margin: 20px;
+}
+
+.endI {
+  font-size: 20px;
+  font-family: 'Libre Bodoni', serif;
+  text-align: center;
+}
+
+.signend {
+  padding-bottom: 5%;
+  margin-left: 20px;
+}
